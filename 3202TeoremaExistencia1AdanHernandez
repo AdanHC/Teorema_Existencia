@@ -1,0 +1,7 @@
+clear
+x=0:0.1:4;
+y=exp(x);
+plot(x,y);
+title("f(x)=e^x");
+xlabel("X");
+ylabel("Y");
