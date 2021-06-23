@@ -1,0 +1,10 @@
+%Adan Hernandez Carlos
+%Teorema de exixtencia
+%Grupo: 3202
+clear
+x=1:0.1:4;
+y=log(x);
+plot(x,y);
+title("f(x)=In(x)");
+xlabel("X");
+ylabel("Y");
